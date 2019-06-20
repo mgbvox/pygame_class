@@ -7,6 +7,8 @@ Used to teach my students the basics of pygame.
 '''
 
 
+int(123.67)
+
 import pygame
 import numpy as np
 
